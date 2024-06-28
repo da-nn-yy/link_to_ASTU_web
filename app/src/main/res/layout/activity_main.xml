@@ -4,12 +4,22 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <TextView
+        android:id="@+id/HeightTitleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/link_to_astu_web"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:layout_marginTop="300dp" />
+
     <Button
-        android:id="@+id/openAstuWebButton"
+        android:id="@+id/openAstuWeb"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="@string/open_astu_web"
+        android:text="ASTU Website"
         android:background="@color/purple_500"
         android:textColor="@android:color/white"
         android:padding="16dp" />

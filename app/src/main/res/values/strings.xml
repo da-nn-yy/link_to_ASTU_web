@@ -1,4 +1,6 @@
 <resources>
-    <string name="app_name">astuWebLink</string>
+    <string name="app_name">ASTU</string>
     <string name="open_astu_web">Open ASTU-Web</string>
+    <string name="open_astu_website">Open ASTU Website</string>
+    <string name="link_to_astu_web">Link to ASTU-Web</string>
 </resources>

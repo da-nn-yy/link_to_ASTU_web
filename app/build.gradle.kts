@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.bmi_claculator"
+    namespace = "com.example.astuweblink"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.bmi_claculator"
+        applicationId = "com.example.astuweblink"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
